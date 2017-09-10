@@ -12,4 +12,8 @@ dsfjsndflkdsnkflk I am a DON jfndslkfndsl
 
 testing new branch
 
+<<<<<<< HEAD
 test merging 2
+=======
+test merging 1
+>>>>>>> 9965cba9bf92759a6307153485cf5619251fddb0
